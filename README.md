@@ -24,7 +24,7 @@ Moodies:
 * utilizza AMQP per comunicare con un server che effettua logging.
 
 
-# Istruzioni per l'istallazione
+# Istruzioni per l'installazione
 1) Tramite git clonare il repository utilizzando il comando ```git clone http://github.com/GMN177/ProgettoReti.git```;
 2) installare docker;
 3) esegiure il comando ```docker-compose up --build -d```;  
